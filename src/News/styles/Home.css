@@ -1,0 +1,10 @@
+.carousel-indicators{
+background-color: black;
+width: 100%;
+margin: 0;
+}
+.carousel-dark .carousel-indicators [data-bs-target]{
+background-color: white ;
+}
+.carousel-caption{
+}
